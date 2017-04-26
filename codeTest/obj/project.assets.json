@@ -3708,16 +3708,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Project\\LintCode\\code\\code.csproj",
-      "projectName": "code",
-      "projectPath": "c:\\Project\\LintCode\\code\\code.csproj",
-      "outputPath": "c:\\Project\\LintCode\\code\\obj\\",
+      "projectUniqueName": "c:\\Project\\LintCode\\codeTest\\codeTest.csproj",
+      "projectName": "codeTest",
+      "projectPath": "c:\\Project\\LintCode\\codeTest\\codeTest.csproj",
+      "outputPath": "c:\\Project\\LintCode\\codeTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/code.dll": "c:\\Project\\LintCode\\code\\bin\\placeholder\\netstandard1.4\\code.dll"
+        "lib/netstandard1.4/codeTest.dll": "c:\\Project\\LintCode\\codeTest\\bin\\placeholder\\netstandard1.4\\codeTest.dll"
       },
       "frameworks": {
         "netstandard1.4": {
