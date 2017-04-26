@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace codeTest
 {
@@ -52,6 +52,5 @@ namespace codeTest
             }
             return -1;
         }
-
     }
 }
