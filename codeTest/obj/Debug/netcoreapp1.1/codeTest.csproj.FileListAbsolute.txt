@@ -1,0 +1,8 @@
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/bin/Debug/netcoreapp1.1/codeTest.deps.json
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/bin/Debug/netcoreapp1.1/codeTest.runtimeconfig.json
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/bin/Debug/netcoreapp1.1/codeTest.runtimeconfig.dev.json
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/bin/Debug/netcoreapp1.1/codeTest.dll
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/bin/Debug/netcoreapp1.1/codeTest.pdb
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/obj/Debug/netcoreapp1.1/codeTest.AssemblyInfo.cs
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/obj/Debug/netcoreapp1.1/codeTest.dll
+/Users/lili/Projects/LintCode-CSharp-solution/codeTest/obj/Debug/netcoreapp1.1/codeTest.pdb
