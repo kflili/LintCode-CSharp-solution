@@ -1,13 +1,13 @@
 using System;
 
-namespace codeTest
+namespace Search
 {
     /** 
     *@param A : an integer rotated sorted array
     *@param target :  an integer to be searched
     *return : an integer
     */   
-    public class SearchSolution
+    public class Solution
     {
         public int Search (int[] A, int target) {
             if (A == null || A.Length == 0) {

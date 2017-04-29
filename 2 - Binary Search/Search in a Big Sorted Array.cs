@@ -1,6 +1,6 @@
 using System;
 
-namespace codeTest
+namespace SearchBigSortedArray
 {
     /**
     * Definition of ArrayReader:
@@ -10,7 +10,7 @@ namespace codeTest
     *      public int get(int index);
     * }
     */
-    public class SearchBigSortedArraySolution
+    public class Solution
     {
         /**
         * @param reader: An instance of ArrayReader can read number by index.

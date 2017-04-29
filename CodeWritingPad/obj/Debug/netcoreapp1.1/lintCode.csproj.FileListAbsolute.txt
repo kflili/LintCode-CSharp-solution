@@ -1,0 +1,12 @@
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/bin/Debug/netcoreapp1.1/lintCode.deps.json
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/bin/Debug/netcoreapp1.1/lintCode.runtimeconfig.json
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/bin/Debug/netcoreapp1.1/lintCode.runtimeconfig.dev.json
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/obj/Debug/netcoreapp1.1/lintCode.AssemblyInfo.cs
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/bin/Debug/netcoreapp1.1/lintCode.deps.json
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/bin/Debug/netcoreapp1.1/lintCode.runtimeconfig.json
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/bin/Debug/netcoreapp1.1/lintCode.runtimeconfig.dev.json
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/bin/Debug/netcoreapp1.1/lintCode.dll
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/bin/Debug/netcoreapp1.1/lintCode.pdb
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/obj/Debug/netcoreapp1.1/lintCode.AssemblyInfo.cs
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/obj/Debug/netcoreapp1.1/lintCode.dll
+/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/obj/Debug/netcoreapp1.1/lintCode.pdb

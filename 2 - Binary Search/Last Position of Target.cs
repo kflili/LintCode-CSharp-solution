@@ -1,6 +1,6 @@
 using System;
 
-namespace code
+namespace LastPosition
 {
     public class Solution
     {
@@ -9,7 +9,7 @@ namespace code
      * @param target: An integer
      * @return an integer
      */
-        public int lastPosition (int[] nums, int target) {
+        public int LastPosition (int[] nums, int target) {
             if (nums == null || nums.Length == 0)
             {
                 return -1;

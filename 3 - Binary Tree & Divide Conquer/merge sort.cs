@@ -1,8 +1,8 @@
 using System;
 
-namespace codeTest
+namespace MergeSort
 {
-    public class MergeSortSolution
+    public class Solution
     {
         public void SortIntegers (int[] A) {
             // use a shared temp array, not in the helper method, more efficient

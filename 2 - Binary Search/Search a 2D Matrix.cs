@@ -1,8 +1,8 @@
 using System;
 
-namespace code
+namespace SearchMatrix
 {
-    public class SearchMatrixSolution
+    public class Solution
     {
         /**
          * @param matrix, a list of lists of integers

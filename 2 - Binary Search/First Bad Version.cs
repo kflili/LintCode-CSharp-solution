@@ -1,6 +1,6 @@
 using System;
 
-namespace codeTest
+namespace FindFirstBadVersion
 {
     /**
     * public class SVNRepo {
@@ -9,7 +9,7 @@ namespace codeTest
     * you can use SVNRepo.isBadVersion(k) to judge whether 
     * the kth code version is bad or not.
     */
-    public class FindFirstBadVersionSolution
+    public class Solution
     {
         /**
         * @param n: An integers.

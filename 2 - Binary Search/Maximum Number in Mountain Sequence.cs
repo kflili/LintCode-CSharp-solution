@@ -1,8 +1,8 @@
 using System;
 
-namespace code
+namespace MountainSequence
 {
-    public class MountainSequenceSolution
+    public class Solution
     {
         /**
          * @param nums a mountain sequence which increase firstly and then decrease

@@ -7080,16 +7080,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/lintCode.csproj",
+      "projectUniqueName": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/lintCode.csproj",
       "projectName": "lintCode",
-      "projectPath": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/lintCode.csproj",
-      "outputPath": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/obj/",
+      "projectPath": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/lintCode.csproj",
+      "outputPath": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/lintCode.dll": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/bin/placeholder/netcoreapp1.1/lintCode.dll"
+        "lib/netcoreapp1.1/lintCode.dll": "/Users/lili/Projects/dot-net-core/LintCode-CSharp-solution/CodeWritingPad/bin/placeholder/netcoreapp1.1/lintCode.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

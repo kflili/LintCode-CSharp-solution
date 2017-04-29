@@ -1,13 +1,13 @@
 using System;
 
-namespace codeTest
+namespace MinArea
 {
     /**
     * @param image a binary matrix with '0' and '1'
     * @param x, y the location of one of the black pixels
     * @return an integer
     */   
-    public class MinAreaSolution
+    public class Solution
     {
         public int MinArea (char[][] image, int x, int y) {
             if (image == null || image.Length == 0 || image[0].Length == 0)

@@ -1,8 +1,8 @@
 using System;
 
-namespace codeTest
+namespace QuickSort
 {
-    public class QuickSortSolution
+    public class Solution
     {
         public void SortIntegers (int[] A) {
             QuickSort(A, 0, A.Length - 1);

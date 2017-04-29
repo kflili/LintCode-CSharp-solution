@@ -2,7 +2,7 @@ using System;
 
 namespace strStr
 {
-    public class solution
+    public class Solution
     {
         /*
         For a given source string and a target string, you should output the first 

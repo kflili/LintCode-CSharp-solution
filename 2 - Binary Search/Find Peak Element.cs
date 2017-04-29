@@ -1,12 +1,12 @@
 using System;
 
-namespace codeTest
+namespace FindPeak
 {
     /**
      * @param A: An integers array.
      * @return: return any of peek positions.
      */
-    public class FindPeakSolution
+    public class Solution
     {
         public int FindPeak(int[] A)
         {
