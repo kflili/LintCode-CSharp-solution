@@ -2,7 +2,7 @@ using System;
 
 namespace codeTest
 {
-    public class Solution
+    public class MergeSortSolution
     {
         public void SortIntegers (int[] A) {
             // use a shared temp array, not in the helper method, more efficient

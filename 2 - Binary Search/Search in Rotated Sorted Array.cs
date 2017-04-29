@@ -7,9 +7,9 @@ namespace codeTest
     *@param target :  an integer to be searched
     *return : an integer
     */   
-    public class Solution
+    public class SearchSolution
     {
-        public int search (int[] A, int target) {
+        public int Search (int[] A, int target) {
             if (A == null || A.Length == 0) {
                 return -1;
             }

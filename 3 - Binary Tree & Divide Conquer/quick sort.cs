@@ -2,7 +2,7 @@ using System;
 
 namespace codeTest
 {
-    public class Solution
+    public class QuickSortSolution
     {
         public void SortIntegers (int[] A) {
             QuickSort(A, 0, A.Length - 1);

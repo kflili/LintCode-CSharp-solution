@@ -7,7 +7,7 @@ namespace codeTest
     * @param x, y the location of one of the black pixels
     * @return an integer
     */   
-    public class Solution
+    public class MinAreaSolution
     {
         public int MinArea (char[][] image, int x, int y) {
             if (image == null || image.Length == 0 || image[0].Length == 0)

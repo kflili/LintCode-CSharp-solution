@@ -6,7 +6,7 @@ namespace codeTest
      * @param A: An integers array.
      * @return: return any of peek positions.
      */
-    public class Solution
+    public class FindPeakSolution
     {
         public int FindPeak(int[] A)
         {

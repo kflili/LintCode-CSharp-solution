@@ -10,7 +10,7 @@ namespace codeTest
     *      public int get(int index);
     * }
     */
-    public class Solution
+    public class SearchBigSortedArraySolution
     {
         /**
         * @param reader: An instance of ArrayReader can read number by index.
@@ -18,7 +18,7 @@ namespace codeTest
         * @return : An integer which is the index of the target number
         */
 
-        public int searchBigSortedArray (ArrayReader reader, int target) {
+        public int SearchBigSortedArray (ArrayReader reader, int target) {
             // Algorithm:
             // 1. get the index that ArrayReader.get(index) >= target in
             //    O(logk)

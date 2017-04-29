@@ -9,7 +9,7 @@ namespace codeTest
     * you can use SVNRepo.isBadVersion(k) to judge whether 
     * the kth code version is bad or not.
     */
-    public class Solution
+    public class FindFirstBadVersionSolution
     {
         /**
         * @param n: An integers.

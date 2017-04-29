@@ -2,13 +2,13 @@ using System;
 
 namespace code
 {
-    public class Solution
+    public class MountainSequenceSolution
     {
         /**
          * @param nums a mountain sequence which increase firstly and then decrease
          * @return then mountain top
          */
-        public int mountainSequence(int[] nums)
+        public int MountainSequence(int[] nums)
         {
             int left = 0, right = nums.Length;
             while (left + 1 < right)

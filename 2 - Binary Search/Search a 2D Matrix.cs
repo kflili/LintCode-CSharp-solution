@@ -2,14 +2,14 @@ using System;
 
 namespace code
 {
-    public class Solution
+    public class SearchMatrixSolution
     {
         /**
          * @param matrix, a list of lists of integers
          * @param target, an integer
          * @return a boolean, indicate whether matrix contains target
          */
-        public bool searchMatrix(int[][] matrix, int target)
+        public bool SearchMatrix(int[][] matrix, int target)
         {
             if (matrix == null || matrix.Length == 0)
             {
