@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "codetest/1.0.0": {
+      "lintcode/1.0.0": {
         "runtime": {
-          "codeTest.dll": {}
+          "lintCode.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "codetest/1.0.0": {
+    "lintcode/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
