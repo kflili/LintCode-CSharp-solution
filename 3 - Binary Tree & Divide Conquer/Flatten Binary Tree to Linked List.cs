@@ -47,5 +47,31 @@ namespace flatten
             }
             return root;
         }
+
+        // non-recursion method
+        public void flatten2 (TreeNode root) {
+            if (root == null) {
+                return;
+            }
+            Stack<TreeNode> stack = new Stack<TreeNode>();
+            stack.Push(root);
+            while (stack.Count != 0)
+            {
+                TreeNode node = stack.Pop();
+                if (node.right != null) {
+                    stack.Push(node.right);
+                }
+                if (node.left != null) {
+                    stack.Push(node.left);
+                }
+                // connect
+                node.left = null;
+                if (stack.Count == 0) {
+                    node.right = null;
+                } else {
+                    node.right = stack.Peek();
+                }
+            }
     }
+
 }
